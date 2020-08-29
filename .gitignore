@@ -1,0 +1,3 @@
+# not save checkpoints
+*.ipynb_checkpoints
+.ipynb_checkpoints/
